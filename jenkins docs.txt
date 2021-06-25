@@ -1,0 +1,4 @@
+Terraform code to setup jenkins ec2 instance:
+https://levelup.gitconnected.com/intro-to-terraform-provision-ec2-instance-and-install-jenkins-3ccb7e2d60f6
+Jenkins setup documentation:
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04
